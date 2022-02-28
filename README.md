@@ -43,7 +43,7 @@ Form for inscription
 
 ### Sign in
 
-Form for inscription with a search in the data base for the user
+Form for inscription with a search in the data base for the user if he exists
 
 <p align="center">
   <img src=".github/yowl_signin.jpg" width="90%;" />
