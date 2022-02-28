@@ -128,3 +128,9 @@ And then the form
 <p align="center">
   <img src=".github/yowl_create_post2.jpg" width="90%;" />
 </p>
+
+## Authors
+- [PIEMONTE Gianni](https://github.com/giannipiemonte)
+- [GABILLOUX Jérôme](https://github.com/jgabilloux)
+- [PEREIRA-VARELA Jessy](https://github.com/Jessy06)
+- [FREGONA Tristan](https://github.com/Tfregona)
