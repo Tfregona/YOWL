@@ -25,7 +25,8 @@ php artisan serve
 
 ### Home page
 
-Display some categories and the last comments <br>
+Display some categories and the last comments
+<br>
 All the 'read' part of the application is accessible for non-connected users
 
 <p align="center">
