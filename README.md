@@ -123,12 +123,6 @@ Firstly the user need to choose the category of his futur post
   <img src=".github/yowl_create_post1.jpg" width="90%;" />
 </p>
 
-Firstly the user need to choose the category of his futur post 
-
-<p align="center">
-  <img src=".github/yowl_create_post1.jpg" width="90%;" />
-</p>
-
 And then the form 
 
 <p align="center">
