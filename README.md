@@ -78,7 +78,7 @@ Form for update user profile
 Page only accessible for admin users where they can see, create, update, delete anything
 
 <p align="center">
-  <img src=".github/yowl_admin_control.jpg" width="90%;" />
+  <img src=".github/yowl_admin_control_page.jpg" width="90%;" />
 </p>
 
 ### Update form
